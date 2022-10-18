@@ -5,3 +5,6 @@ This document contains notes and resources that we collected during the design o
 * [LED Adafruit neopixel](https://www.adafruit.com/category/168)
 
 ## Component list
+
+  - temp
+  - xxx
